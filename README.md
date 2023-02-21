@@ -1,3 +1,3 @@
 # Winc_string
 String assignments
-Feedback : English
+Feedback : English and Dutch are both fine.
